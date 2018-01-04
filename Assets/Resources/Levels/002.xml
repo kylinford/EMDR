@@ -1,0 +1,13 @@
+<level>
+  <property name="Level Template 2" timer="30" interval="1" bgsrc="_MDT7829" dotsrc="cancel"
+            textcolor-r="1" textcolor-g="0.5" textcolor-b="0.4" ></property>
+
+  <dots>
+    <dot x="-400" y="-200"></dot>
+    <dot x="-100" y="-100"></dot>
+    <dot x="0" y="-200"></dot>
+    <dot x="100" y="100"></dot>
+    <dot x="500" y="-200"></dot>
+  </dots>
+
+</level>

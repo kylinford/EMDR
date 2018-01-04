@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "EMDR_WebGL.data.unityweb",
+"asmCodeUrl": "EMDR_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "EMDR_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "EMDR_WebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
